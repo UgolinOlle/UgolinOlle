@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 # Hi 👋 My name is Ugolin Ollé
 
 ## Freelance Developer Full Stack
@@ -17,29 +15,18 @@ src="https://img.shields.io/github/followers/UgolinOlle?logo=github&style=for-th
 
 ## Skills
 
-<div style="font-size: 42px; display: grid; margin: 0 auto; margin-top: 20px; margin-bottom: 20px; grid-template-columns: repeat(5, 1fr); grid-gap: 50px;">
-    <i class="devicon-bash-plain colored"></i>
-    <i class="devicon-docker-plain colored"></i>
-    <i class="devicon-grafana-original colored"></i>
-    <i class="devicon-git-plain colored"></i>
-    <i class="devicon-flutter-plain colored"></i>
-    <i class="devicon-nestjs-plain colored"></i>
-    <i class="devicon-nextjs-original colored"></i>
-    <i class="devicon-nodejs-plain colored"></i>
-    <i class="devicon-typescript-plain colored"></i>
-    <i class="devicon-php-plain colored"></i>
-    <i class="devicon-symfony-original colored"></i>
-    <i class="devicon-react-original colored"></i>
-    <i class="devicon-wordpress-plain colored"></i>
-    <i class="devicon-postgresql-plain colored"></i>
-    <i class="devicon-mongodb-plain-wordmark colored"></i>
+<div style="margin: 0 auto; margin-top: 20px; margin-bottom: 20px;">
+
+[![My Skills](https://skillicons.dev/icons?i=docker,grafana,bash,git,ts,nodejs,tailwind,flutter,nest,next,php,symfony,react,wordpress,postgres,mongo&perline=5)](https://skillicons.dev)
+
 </div>
 
 ## Work environment
 
-<div style="font-size: 42px; display: flex; justify-content: space-around;">
-    <img style="width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <i class="devicon-apple-original colored"></i>
+<div style="margin: 0 auto; margin-top: 20px; margin-bottom: 20px;">
+    
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,neovim,github,firebase,vercel,postman,linux&perline=4)](https://skillicons.dev)
+
 </div>
 
 ## Socials
