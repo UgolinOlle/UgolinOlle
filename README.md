@@ -29,7 +29,6 @@ src="https://img.shields.io/github/followers/UgolinOlle?logo=github&style=for-th
     <i class="devicon-typescript-plain colored"></i>
     <i class="devicon-php-plain colored"></i>
     <i class="devicon-symfony-original colored"></i>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <i class="devicon-react-original colored"></i>
     <i class="devicon-wordpress-plain colored"></i>
     <i class="devicon-postgresql-plain colored"></i>
