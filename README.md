@@ -14,7 +14,7 @@
 #### Languages
 <div style="margin: 0 auto; margin-top: 20px; margin-bottom: 20px;">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,bash,html,css,js,lua,ts,nodejs,dart,c,php,postgres,mongo&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,bash,js,ts,nodejs,dart,c,php,postgres,mongo&perline=5)](https://skillicons.dev)
 
 </div>
 
