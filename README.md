@@ -2,7 +2,7 @@
 
 I'm Ugolin Ollé, a Full Stack Engineer and in relationship in various frameworks and programming languages.
 
-- 🔭 I’m currently working on [fract-ol](https://github.com/ugolinolle/fract-ol).
+- 🔭 I’m currently working on [WhoaIDE]([https://github.com/ugolinolle/](https://github.com/UgolinOlle/WhoaIDE)).
 - 🌱 I’m currently learning [Computer Science](https://www.42bangkok.com/th/).
 - 🌐 Look at my [portfolio](https://ugolin-olle.com)
 - ⚡ Fun fact: I decide to move to Bangkok in less than 2 hours.
